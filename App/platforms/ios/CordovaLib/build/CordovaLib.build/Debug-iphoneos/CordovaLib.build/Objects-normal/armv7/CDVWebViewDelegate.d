@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/alexandre/Desktop/CodebarStuff/App/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m \
-  /Users/alexandre/Desktop/CodebarStuff/App/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h \
-  /Users/alexandre/Desktop/CodebarStuff/App/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+  /Users/alexiszrihen/CodebarStuff/App/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m \
+  /Users/alexiszrihen/CodebarStuff/App/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h \
+  /Users/alexiszrihen/CodebarStuff/App/platforms/ios/CordovaLib/Classes/CDVAvailability.h

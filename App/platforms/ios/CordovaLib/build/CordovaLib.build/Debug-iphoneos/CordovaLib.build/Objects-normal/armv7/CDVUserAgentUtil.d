@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/alexandre/Desktop/CodebarStuff/App/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m \
-  /Users/alexandre/Desktop/CodebarStuff/App/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+  /Users/alexiszrihen/CodebarStuff/App/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m \
+  /Users/alexiszrihen/CodebarStuff/App/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h

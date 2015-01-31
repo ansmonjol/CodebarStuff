@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/alexandre/Desktop/CodebarStuff/App/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m \
-  /Users/alexandre/Desktop/CodebarStuff/App/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+  /Users/alexiszrihen/CodebarStuff/App/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m \
+  /Users/alexiszrihen/CodebarStuff/App/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h

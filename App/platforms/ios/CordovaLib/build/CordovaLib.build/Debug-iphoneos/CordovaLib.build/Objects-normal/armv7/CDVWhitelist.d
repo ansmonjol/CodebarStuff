@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/alexandre/Desktop/CodebarStuff/App/platforms/ios/CordovaLib/Classes/CDVWhitelist.m \
-  /Users/alexandre/Desktop/CodebarStuff/App/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+  /Users/alexiszrihen/CodebarStuff/App/platforms/ios/CordovaLib/Classes/CDVWhitelist.m \
+  /Users/alexiszrihen/CodebarStuff/App/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
