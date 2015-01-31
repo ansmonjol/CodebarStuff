@@ -38,7 +38,7 @@
 		</data>
 		<key>MainViewController.nib</key>
 		<data>
-		5afuqb3tELI4/q/jUV0eZg6nPj0=
+		pfhSierB1mFnWi2bhSs5rWKBlPM=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>config.xml</key>
 		<data>
-		7d2Oi0f5IFq+arkOEMPrCQNHQdA=
+		7Gn1y02IKzH4tHviP4uNHl9laNM=
 		</data>
 		<key>de.lproj/Localizable.strings</key>
 		<dict>
@@ -126,10 +126,6 @@
 		<data>
 		LUJ3txzytSByCRYLhax7yg/JkOk=
 		</data>
-		<key>scannerOverlay.nib</key>
-		<data>
-		sFeGKO9dADdFUWlLf8ZHDYyaQ8s=
-		</data>
 		<key>www/config.xml</key>
 		<data>
 		v7OTTHWMrAlDSZteloPdeSOIqDc=
@@ -140,7 +136,7 @@
 		</data>
 		<key>www/cordova_plugins.js</key>
 		<data>
-		8Au1N8B6c+GdDtHR/EPbKixMF9Y=
+		s4OxZT3DxxojDYxIwSgU8PPbOno=
 		</data>
 		<key>www/css/index.css</key>
 		<data>
@@ -156,15 +152,15 @@
 		</data>
 		<key>www/index.html</key>
 		<data>
-		U47rQoNeZqWNKz5g1yB50D4P9dc=
+		ghpVYWANvigaumzITQI2W5Fz2QU=
 		</data>
 		<key>www/js/index.js</key>
 		<data>
 		qWUWzEgR1zqkZtj2YJBZhJRTQqk=
 		</data>
-		<key>www/plugins/com.phonegap.plugins.barcodescanner/www/barcodescanner.js</key>
+		<key>www/phonegap.js</key>
 		<data>
-		aSfApViu/0/C0Sw/uqscA1lkkyk=
+		2mb2od6vCw+eKVd3DE2b0DENm88=
 		</data>
 		<key>www/res/icon/android/icon-36-ldpi.png</key>
 		<data>
@@ -399,11 +395,11 @@
 		</data>
 		<key>MainViewController.nib</key>
 		<data>
-		5afuqb3tELI4/q/jUV0eZg6nPj0=
+		pfhSierB1mFnWi2bhSs5rWKBlPM=
 		</data>
 		<key>config.xml</key>
 		<data>
-		7d2Oi0f5IFq+arkOEMPrCQNHQdA=
+		7Gn1y02IKzH4tHviP4uNHl9laNM=
 		</data>
 		<key>de.lproj/Localizable.strings</key>
 		<dict>
@@ -483,10 +479,6 @@
 		<data>
 		LUJ3txzytSByCRYLhax7yg/JkOk=
 		</data>
-		<key>scannerOverlay.nib</key>
-		<data>
-		sFeGKO9dADdFUWlLf8ZHDYyaQ8s=
-		</data>
 		<key>www/config.xml</key>
 		<data>
 		v7OTTHWMrAlDSZteloPdeSOIqDc=
@@ -497,7 +489,7 @@
 		</data>
 		<key>www/cordova_plugins.js</key>
 		<data>
-		8Au1N8B6c+GdDtHR/EPbKixMF9Y=
+		s4OxZT3DxxojDYxIwSgU8PPbOno=
 		</data>
 		<key>www/css/index.css</key>
 		<data>
@@ -513,15 +505,15 @@
 		</data>
 		<key>www/index.html</key>
 		<data>
-		U47rQoNeZqWNKz5g1yB50D4P9dc=
+		ghpVYWANvigaumzITQI2W5Fz2QU=
 		</data>
 		<key>www/js/index.js</key>
 		<data>
 		qWUWzEgR1zqkZtj2YJBZhJRTQqk=
 		</data>
-		<key>www/plugins/com.phonegap.plugins.barcodescanner/www/barcodescanner.js</key>
+		<key>www/phonegap.js</key>
 		<data>
-		aSfApViu/0/C0Sw/uqscA1lkkyk=
+		2mb2od6vCw+eKVd3DE2b0DENm88=
 		</data>
 		<key>www/res/icon/android/icon-36-ldpi.png</key>
 		<data>

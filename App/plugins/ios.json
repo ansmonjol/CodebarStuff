@@ -4,22 +4,7 @@
         "uninstalled": []
     },
     "config_munge": {
-        "files": {
-            "framework": {
-                "parents": {
-                    "libiconv.dylib": [],
-                    "AVFoundation.framework": [],
-                    "AssetsLibrary.framework": [],
-                    "CoreVideo.framework": [],
-                    "QuartzCore.framework": []
-                }
-            },
-            "config.xml": {
-                "parents": {
-                    "/*": []
-                }
-            }
-        }
+        "files": {}
     },
     "installed_plugins": {},
     "dependent_plugins": {}
