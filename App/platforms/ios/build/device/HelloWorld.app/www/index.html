@@ -29,7 +29,7 @@
     <link rel="stylesheet" type="text/css" href="css/index.css" />
     <title>codebarscanner</title>
 </head>
-<body>
+<body class="platform-ios platform-cordova platform-webview">
     <div class="app">
         <h1>PhoneGap</h1>
         <div id="deviceready" class="blink">
@@ -50,7 +50,8 @@
                 alert("We got a barcode\n" +
                     "Result: " + result.text + "\n" +
                     "Format: " + result.format + "\n" +
-                    "Cancelled: " + result.cancelled);
+                    "Cancelled: " + result.cancelled + "\n" +
+                    "all: " + result[0]);
             }, 
             function (error) {
               alert("Scanning failed: " + error);
